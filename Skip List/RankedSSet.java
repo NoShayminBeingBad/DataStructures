@@ -1,5 +1,3 @@
-package comp2402a3;
-
 import java.util.Comparator;
 import java.util.Iterator;
 
