@@ -1,5 +1,3 @@
-package comp2402a4;
-
 import java.util.Iterator;
 
 public interface PrefixStack extends Iterable<Integer> {
