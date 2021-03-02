@@ -1,5 +1,3 @@
-package comp2402a2;
-
 import java.util.Iterator;
 import java.util.Collection;
 
