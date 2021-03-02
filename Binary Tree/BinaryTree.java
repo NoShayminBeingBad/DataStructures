@@ -1,5 +1,3 @@
-package comp2402a3;
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.io.PrintWriter;
